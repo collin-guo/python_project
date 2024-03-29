@@ -1,7 +1,9 @@
+# definition of my function
 def myFunction():
     print("Hello World")
 
-def partner():
+# definition of goodbye functionn
+def partner()
     print("goodbye")
 
 if __name__ == "__main__":
