@@ -3,7 +3,7 @@ def myFunction():
     print("Hello World")
 
 # definition of goodbye functionn
-def partner()
+def partner():
     print("goodbye")
 
 if __name__ == "__main__":
